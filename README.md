@@ -29,7 +29,7 @@
 <div>
   <h3>✉️ My contacts </h4>
   
-  <a href="https://www.linkedin.com/in/pedro-lamon-864b4120/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-lamon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
