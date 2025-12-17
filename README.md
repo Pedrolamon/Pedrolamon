@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   
-  <a href="https://beacons.ai/Pedrolamon.com" target="_blank">
+  <a href="https://Pedrolamon.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
